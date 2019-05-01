@@ -73,7 +73,7 @@ Sample Output
   */
 		
 
-package basic;
+package hackerrank.arrays;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
