@@ -412,26 +412,32 @@ Static block 1
 Parent  
 Child
 
+
 b.Static block 1  
 Static block 2  
 Parent  
 Child
 
+
 c. Static block 2  
 Parent  
 Child 
+
 
 d. Static block 1  
 Parent  
 Child
 
+
 e. Parent  
 Child
+
 
 f. Parent  
 Static block 1  
 Child  
 Static block 2
+
 
  
 >	Answer : a
@@ -475,18 +481,22 @@ public class Main {
 a. Static block 3  
 Hello Kamal
 
+
 b. Hello Kamal  
 Static block 3
+
 
 c. Static block 3  
 Static block 2  
 Static block 1   
 Hello Kamal
 
+
 d. Static block 1  
 Static block 2  
 Static block 3   
 Hello Kamal
+
 
 
 >	Answer : a
@@ -533,6 +543,7 @@ Parent
 Child  
 Hello Kamal
 
+
 b. Static block 3  
 Static block 1  
 Static block 2  
@@ -540,13 +551,16 @@ Parent
 Child  
 Hello Kamal
 
+
 c. Static block 3  
 Static block 2  
 Parent  
 Child  
 Hello Kamal
 
+
 d. Error
+
 
 
 >	Answer: b
