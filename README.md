@@ -155,13 +155,13 @@ public class Main {
 }
 ```
 
-a. Parent
+a. Parent  
 Child
 
-b. Child
+b. Child  
 Parent
 
-c. Parent
+c. Parent  
 
 d. Child
 
@@ -192,13 +192,13 @@ public class Main {
 }
 ```
 
-a. Parent
+a. Parent  
 Child
 
-b. Child
+b. Child  
 Parent
 
-c. Parent
+c. Parent  
 
 d. Child
 
@@ -229,10 +229,10 @@ public class Main {
 }
 ```
 
-a. Parent
+a. Parent  
 Child
 
-b. Child
+b. Child  
 Parent
 
 c. Parent
@@ -271,16 +271,16 @@ public class Main {
 }
 ```
  
-a. Parent
-Parent m1
+a. Parent  
+Parent m1  
 Child
 
-b. Child
-Parent
+b. Child  
+Parent  
 Parent m1
 
-c. Parent
-Child
+c. Parent  
+Child  
 Parent m1
 
 d. Child
@@ -315,11 +315,11 @@ public class Main {
 
 a. Compile time Error
 
-b. Parent
-Child
+b. Parent  
+Child  
 Child
 
-c. Parent
+c. Parent  
 Child
 
 d. Runtime error
@@ -356,19 +356,19 @@ public class Main {
 ```
  
 
-a. Parent
+a. Parent  
 Child
 
-b. Parent
-Child
+b. Parent  
+Child  
 Static block
 
-c. Child
-Parent
+c. Child  
+Parent  
 Static block
 
-d. Static block
-Parent
+d. Static block  
+Parent  
 Child
 
 
@@ -407,30 +407,30 @@ public class Main {
 ```
  
 
-a. Static block 2
-Static block 1
-Parent
+a. Static block 2  
+Static block 1  
+Parent  
 Child
 
-b.Static block 1
-Static block 2
-Parent
+b.Static block 1  
+Static block 2  
+Parent  
 Child
 
-c. Static block 2
-Parent
+c. Static block 2  
+Parent  
 Child 
 
-d. Static block 1
-Parent
+d. Static block 1  
+Parent  
 Child
 
-e. Parent
+e. Parent  
 Child
 
-f. Parent
-Static block 1
-Child
+f. Parent  
+Static block 1  
+Child  
 Static block 2
 
  
@@ -472,20 +472,20 @@ public class Main {
 }
 ```
 
-a. Static block 3
+a. Static block 3  
 Hello Kamal
 
-b. Hello Kamal
+b. Hello Kamal  
 Static block 3
 
-c. Static block 3
-Static block 2
-Static block 1 
+c. Static block 3  
+Static block 2  
+Static block 1   
 Hello Kamal
 
-d. Static block 1
-Static block 2
-Static block 3 
+d. Static block 1  
+Static block 2  
+Static block 3   
 Hello Kamal
 
 
@@ -528,22 +528,22 @@ public class Main {
 }
 ```
 
-a. Static block 3
-Parent
-Child
+a. Static block 3  
+Parent  
+Child  
 Hello Kamal
 
-b. Static block 3
-Static block 1
-Static block 2
-Parent
-Child
+b. Static block 3  
+Static block 1  
+Static block 2  
+Parent  
+Child  
 Hello Kamal
 
-c. Static block 3
-Static block 2
-Parent
-Child
+c. Static block 3  
+Static block 2  
+Parent  
+Child  
 Hello Kamal
 
 d. Error
