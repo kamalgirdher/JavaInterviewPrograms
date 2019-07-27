@@ -193,14 +193,14 @@ public class Main {
 ```
 
 a. Parent  
-Child
+Child  
 
 b. Child  
-Parent
+Parent  
 
 c. Parent  
 
-d. Child
+d. Child  
 
 
 >	Answer: a
@@ -230,14 +230,14 @@ public class Main {
 ```
 
 a. Parent  
-Child
+Child  
 
 b. Child  
-Parent
+Parent  
 
-c. Parent
+c. Parent  
 
-d. Child
+d. Child  
 
 
 >	Answer:c
@@ -273,17 +273,17 @@ public class Main {
  
 a. Parent  
 Parent m1  
-Child
+Child  
 
 b. Child  
 Parent  
-Parent m1
+Parent m1  
 
 c. Parent  
 Child  
-Parent m1
+Parent m1  
 
-d. Child
+d. Child  
 
 
 >	Answer: a
@@ -317,12 +317,12 @@ a. Compile time Error
 
 b. Parent  
 Child  
-Child
+Child  
 
 c. Parent  
-Child
+Child  
 
-d. Runtime error
+d. Runtime error  
 
 
 >	Answer: Runtime error : Exception in thread "main" java.lang.StackOverflowError
@@ -357,19 +357,19 @@ public class Main {
  
 
 a. Parent  
-Child
+Child  
 
 b. Parent  
 Child  
-Static block
+Static block  
 
 c. Child  
 Parent  
-Static block
+Static block  
 
 d. Static block  
 Parent  
-Child
+Child  
 
 
 >	Answer : d
@@ -410,33 +410,33 @@ public class Main {
 a. Static block 2  
 Static block 1  
 Parent  
-Child
+Child  
 
 
 b.Static block 1  
 Static block 2  
 Parent  
-Child
+Child  
 
 
 c. Static block 2  
 Parent  
-Child 
+Child  
 
 
 d. Static block 1  
 Parent  
-Child
+Child  
 
 
 e. Parent  
-Child
+Child  
 
 
 f. Parent  
 Static block 1  
 Child  
-Static block 2
+Static block 2  
 
 
  
@@ -479,23 +479,23 @@ public class Main {
 ```
 
 a. Static block 3  
-Hello Kamal
+Hello Kamal  
 
 
 b. Hello Kamal  
-Static block 3
+Static block 3  
 
 
 c. Static block 3  
 Static block 2  
 Static block 1   
-Hello Kamal
+Hello Kamal  
 
 
 d. Static block 1  
 Static block 2  
 Static block 3   
-Hello Kamal
+Hello Kamal  
 
 
 
