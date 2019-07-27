@@ -18,8 +18,11 @@ class A
 ```
 
 a. 19
+
 b. 910
+
 c. Compile time error
+
 d. Runtime error
 
 
@@ -41,9 +44,13 @@ class A {
  
 
 a. kamal
+
 b. 0
+
 c. Error
+
 d. 518
+
 
 >	Answer : D
 	In this example we have used character literals and not String literals. Therefore output won't be kamal. It would be ascii sum of all characters.
@@ -75,8 +82,11 @@ public class Main {
 ```
 
 a. Parent m1
+
 b. Child m1
+
 c. Parent m1 followed by Child m1
+
 d. Child m1 followed by Parent m1
 
 
@@ -108,8 +118,11 @@ public class Main {
 ```
 
 a. Parent m1
+
 b. Child m1
+
 c. Parent m1 followed by Child m1
+
 d. Compilation error
 
 
